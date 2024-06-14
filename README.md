@@ -1,6 +1,5 @@
 # mywishlistapp
-
-Progetto di DEnis Panjuta,in questo progetto si fa vedere
+in questo progetto si fa vedere
 come funziona il Database Room con JackPack Compose.
 Si implementano le basilari funzioni Crud.
 Il progetto prende ad esempio una lista di desideri.
